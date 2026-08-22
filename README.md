@@ -232,21 +232,30 @@ Power-BI-Sales-Performance-Dashboard/
 
 ---
 
+## 📂 Repository Structure
+
+```text
+Power-BI-Sales-Performance-Dashboard/
+│
+├── README.md
+├── Sales-Performance-Dashboard.pbix
+│
+└── screenshots/
+    ├── sales-dashboard.png
+    └── product-analysis.png
+```
+
+---
+
 ## 🎓 Project Context & Attribution
 
-This project was completed as a capstone project for the **Microsoft Power BI
-Desktop for Business Intelligence** course on Udemy.
+This project was completed as a capstone project for the **Microsoft Power BI Desktop for Business Intelligence** course on Udemy.
 
-The dataset was provided as part of the course materials. I developed the
-Power BI dashboard, analytical implementation, KPI reporting and RS visual
-branding presented in this repository.
+The dataset was provided as part of the course materials. I developed the Power BI dashboard, analytical implementation, KPI reporting and RS visual branding presented in this repository.
 
-The course author permits the project materials to be used publicly for
-portfolio purposes.
+The course author permits the project materials to be used publicly for portfolio purposes.
 
-This project is included in my portfolio to demonstrate the practical
-application of Power BI, DAX, data modelling, KPI development and
-business-focused dashboard design.
+This project is included in my portfolio to demonstrate the practical application of Power BI, DAX, data modelling, KPI development and business-focused dashboard design.
 
 ---
 
@@ -254,4 +263,4 @@ business-focused dashboard design.
 
 View more of my analytics and business intelligence projects on my portfolio website:
 
-https://rukies01.github.io/
+**https://rukies01.github.io/**
