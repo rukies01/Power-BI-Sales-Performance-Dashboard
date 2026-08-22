@@ -179,11 +179,11 @@ This project demonstrates practical experience with:
 
 ### Executive Sales Dashboard
 
-![Sales Performance Dashboard](screenshots/sales-dashboard.png)
+![Sales Performance Dashboard](sales-dashboard.png)
 
 ### Product & Store Analysis
 
-![Product Analysis](screenshots/product-analysis.png)
+![Product Analysis](product-analysis.png)
 
 ---
 
@@ -255,4 +255,4 @@ business-focused dashboard design.
 
 View more of my analytics and business intelligence projects on my portfolio website:
 
-**https://rukies01.github.io/**
+https://rukies01.github.io/
