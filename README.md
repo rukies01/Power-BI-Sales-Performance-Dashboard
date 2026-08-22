@@ -230,7 +230,6 @@ Power-BI-Sales-Performance-Dashboard/
     ├── sales-dashboard.png
     └── product-analysis.png
 
-## 📂 Repository Structure
 
 ---
 
